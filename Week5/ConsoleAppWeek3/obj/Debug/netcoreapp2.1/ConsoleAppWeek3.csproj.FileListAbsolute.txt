@@ -1,0 +1,11 @@
+C:\Users\paulb\source\repos\ConsoleAppWeek3\ConsoleAppWeek3\bin\Debug\netcoreapp2.1\ConsoleAppWeek3.deps.json
+C:\Users\paulb\source\repos\ConsoleAppWeek3\ConsoleAppWeek3\bin\Debug\netcoreapp2.1\ConsoleAppWeek3.runtimeconfig.json
+C:\Users\paulb\source\repos\ConsoleAppWeek3\ConsoleAppWeek3\bin\Debug\netcoreapp2.1\ConsoleAppWeek3.runtimeconfig.dev.json
+C:\Users\paulb\source\repos\ConsoleAppWeek3\ConsoleAppWeek3\bin\Debug\netcoreapp2.1\ConsoleAppWeek3.dll
+C:\Users\paulb\source\repos\ConsoleAppWeek3\ConsoleAppWeek3\bin\Debug\netcoreapp2.1\ConsoleAppWeek3.pdb
+C:\Users\paulb\source\repos\ConsoleAppWeek3\ConsoleAppWeek3\obj\Debug\netcoreapp2.1\ConsoleAppWeek3.csprojAssemblyReference.cache
+C:\Users\paulb\source\repos\ConsoleAppWeek3\ConsoleAppWeek3\obj\Debug\netcoreapp2.1\ConsoleAppWeek3.csproj.CoreCompileInputs.cache
+C:\Users\paulb\source\repos\ConsoleAppWeek3\ConsoleAppWeek3\obj\Debug\netcoreapp2.1\ConsoleAppWeek3.AssemblyInfoInputs.cache
+C:\Users\paulb\source\repos\ConsoleAppWeek3\ConsoleAppWeek3\obj\Debug\netcoreapp2.1\ConsoleAppWeek3.AssemblyInfo.cs
+C:\Users\paulb\source\repos\ConsoleAppWeek3\ConsoleAppWeek3\obj\Debug\netcoreapp2.1\ConsoleAppWeek3.dll
+C:\Users\paulb\source\repos\ConsoleAppWeek3\ConsoleAppWeek3\obj\Debug\netcoreapp2.1\ConsoleAppWeek3.pdb
