@@ -1,0 +1,10 @@
+C:\Users\paulb\source\repos\Wk_1_Record_Objects\Wk_1_Record_Objects\bin\Debug\Wk_1_Record_Objects.exe.config
+C:\Users\paulb\source\repos\Wk_1_Record_Objects\Wk_1_Record_Objects\bin\Debug\Wk_1_Record_Objects.exe
+C:\Users\paulb\source\repos\Wk_1_Record_Objects\Wk_1_Record_Objects\bin\Debug\Wk_1_Record_Objects.pdb
+C:\Users\paulb\source\repos\Wk_1_Record_Objects\Wk_1_Record_Objects\obj\Debug\Wk_1_Record_Objects.csprojAssemblyReference.cache
+C:\Users\paulb\source\repos\Wk_1_Record_Objects\Wk_1_Record_Objects\obj\Debug\Wk_1_Record_Objects.Form1.resources
+C:\Users\paulb\source\repos\Wk_1_Record_Objects\Wk_1_Record_Objects\obj\Debug\Wk_1_Record_Objects.Properties.Resources.resources
+C:\Users\paulb\source\repos\Wk_1_Record_Objects\Wk_1_Record_Objects\obj\Debug\Wk_1_Record_Objects.csproj.GenerateResource.cache
+C:\Users\paulb\source\repos\Wk_1_Record_Objects\Wk_1_Record_Objects\obj\Debug\Wk_1_Record_Objects.csproj.CoreCompileInputs.cache
+C:\Users\paulb\source\repos\Wk_1_Record_Objects\Wk_1_Record_Objects\obj\Debug\Wk_1_Record_Objects.exe
+C:\Users\paulb\source\repos\Wk_1_Record_Objects\Wk_1_Record_Objects\obj\Debug\Wk_1_Record_Objects.pdb

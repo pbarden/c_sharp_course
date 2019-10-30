@@ -1,0 +1,6 @@
+﻿Name,            Address,             Age, Gross,    Department, Dev Type, Tax Type
+Bill Gates,      111 Main Street,     29,  22000.00,  11,        Script,   W2
+Steve Jobs,      222 Oak Street,      31,  33000.00,  21,        OOP,      1099
+Elon Musk,       333 South Street,    27,  44000.00,  41,        Script,   W2
+Grace Hopper,    444 Elm Street,      30,  55000.00,  71,        OOP,      W2
+Dennis Ritchie,  555 10th Avenue,     37,  66000.00,  21,        Script,   1099
